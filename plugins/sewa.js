@@ -9,19 +9,25 @@ let handler = async (m, { conn }) => {
   description: ` *• SEWA BOT & UP TO PREMIUM •*
         
 1. Grup / 30 Hari
-Rp. 15,000 Dana
-Rp. 20,000 Pulsa
-2. Premium / 30 Hari
+Rp. 5,000 Dana
+Rp. 5,000 Gopay
+Rp. 5,000 Ovo
+
+1. Grup / permanen 1-2 grup
 Rp. 10,000 Dana
-Rp. 10,000 Pulsa
-3. Premium + Grup / 30 Hari
+Rp. 10,000 Gopay
+Rp. 10,000 Ovo
+
+1. Grup / permanen 3 grup atau lebih
 Rp. 20,000 Dana
-Rp. 20,000 Pulsa
+Rp. 20,000 Gopay
+Rp. 20,000 Ovo
+
 wa.me/${owner[0]}
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
 `,
-  buttonText: 'Harga Bisa Nego Kack 😉',
+  buttonText: 'Harga Bisa pas 😉',
   listType: 2,
   productListInfo: {
   productSections: [{
@@ -31,7 +37,7 @@ wa.me/${owner[0]}
   jpegThumbnail: d },
   businessOwnerJid: `${owner[0]}@s.whatsapp.net`
   },
-  footerText: 'https://github.com/Kangsad01',
+  footerText: 'https://github.com/Botynyakamu',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
 }
