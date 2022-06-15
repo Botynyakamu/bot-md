@@ -1,16 +1,12 @@
 let handler = async (m, { conn, usedPrefix }) => conn.sendButton(m.chat, `
-╭─「 Donasi • Dana 」
-│ • Tri [0895336282144]
-│ • Gopay  [0895336282144]
-│ • Dana  [0895336282144]
-│ • Saweria  [https://saweria.co/thesadboy01]
-╰────
-╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/62895336282144
-│ _Hasil donasi akan digunakan buat sewa_
-│ _atau beli *RDP/VPS* agar bot bisa jalan_
-│ _24jam tanpa kendala_
-╰────
+››╭─〘 *Donasi* 〙
+╭╡📮: Donasi ngab jgan gunain doang.
+│┝‷✧ *Ovo:* [085828764046]
+│┝‷✧ *Dana:* [085828764046]
+│┝‷✧ *Gopay:* [085828764046]
+│╰───···─────
+│⁺◛˖ Ingin Donasi? Chat nomor owner
+╰──────────···───
 `.trim(), wm, 'Menu', usedPrefix + 'menu', m) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['about']
