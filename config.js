@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 }
 
 global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
+global.linkgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.linkig = 'https://www.instagram.com/the.sad.boy01'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
