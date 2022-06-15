@@ -50,7 +50,7 @@ global.urlnya = "https://www.instagram.com/zalfapontianak"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 858-2876-4046'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
